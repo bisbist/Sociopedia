@@ -19,11 +19,11 @@ Complete React MERN Stack Social Media App
 3. Mongoose: For managing Mongo database
 4. Json Web Token: For authentication purpose
 5. Multer: For file uploading
-6. Bodyparser: For processing the http request body
+6. Bodyparser: For processing the HTTP request body
 7. Bycrypt: For Password encryption
 
 8. CORS(Cross-Origin Resource Sharing): To allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources
 
 9. gridfs-stream: storing and retrieving files
-10. Helmet: For ensuring hrrp request safety
+10. Helmet: For ensuring HTTP request safety
 11. Morgan: To log HTTP requests and errors
